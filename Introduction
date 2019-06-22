@@ -1,0 +1,5 @@
+Introduction: Venues of two cities, namely Toronto, and Calgary will be compared to explore their similarities. Data will be collected from foursquare.com
+and postal code, borough, and neighborhood information will be collected from wikipedia. The goal of this project is to 
+deterimine the change in lifestyle when a person migrate from one city to another, for example, a new job, or school etc.
+Given the large amount of data foursquare provide, only top 10 venues will be considered when making comparison, and depending
+on the size of neighborhoods exists in both city, the size of clusters will be adjusted.
