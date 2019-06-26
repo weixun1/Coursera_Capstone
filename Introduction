@@ -2,6 +2,12 @@ Introduction: Relocation is common among many jobs, and it is difficult decision
 downtown location of two major cities in two different provinces, namely Calgary and Toronto. Venues in both locations will be 
 explored, and used for decision making.
 
+
+
+
+
+
+
 Data: Location data scraped from websites, and FourSquare. Calgary geographical data will be scraped from wikipedia, and
 explore venue data using FourSquare. Reuse data from Week Three Project, which contains Toronto geographical data, and venus
 explored using FourSquare, and in the end, these data will be compared using graphical method.
